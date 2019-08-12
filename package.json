@@ -5,7 +5,7 @@
   "main": "src/index.ts",
   "dependencies": {},
   "devDependencies": {
-    "@google/clasp": "^2.1.0",
+    "@google/clasp": "^2.2.1",
     "@types/google-apps-script": "0.0.53"
   },
   "scripts": {
